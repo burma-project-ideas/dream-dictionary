@@ -16,6 +16,6 @@ Summary
 အဲ့ဒီ ခေါင်းစဉ်နဲ့ ပတ်သက်တာများထွက်လာတဲ့ထဲကမှ ရှာလို့အဆင်ပြေအောင် Search Box ထားပြီး ထပ်ရေးထားနိုင်ပါတယ်
 
 
-![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Dream-Dictionary/main/Dream%20Dictionary.jpg)
+![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Dream-Dictionary/main/Dream%20Dictionary%20Flow.jpg)
 
 ![Alt text](https://raw.githubusercontent.com/sannlynnhtun-coding/Dream-Dictionary/main/Dream%20Dictionary%20Mind%20Map.PNG)
