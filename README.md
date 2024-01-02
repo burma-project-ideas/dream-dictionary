@@ -34,3 +34,4 @@ Summary
 - [Lin Htet(Node.Js)](https://github.com/LinnHtet29/dream-dictionary)
 - [Thu Ta Nyan(Next.Js)](https://github.com/thutashein/Dream-Dictionary)
 - [Min Thant Kyaw(Swift)](https://github.com/minthantkyaw28/Dream-Dictionary)
+- [Shin Thant Aung (Flutter)](https://github.com/n3k00/dream_dictionary)
