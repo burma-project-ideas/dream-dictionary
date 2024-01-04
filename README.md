@@ -35,3 +35,4 @@ Summary
 - [Thu Ta Nyan(Next.Js)](https://github.com/thutashein/Dream-Dictionary)
 - [Min Thant Kyaw(Swift)](https://github.com/minthantkyaw28/Dream-Dictionary)
 - [Shin Thant Aung (Flutter)](https://github.com/n3k00/dream_dictionary)
+- [Aung Chan Pyae (JavaScript)](https://github.com/aungchanpyae33/Dream-dictionary.git)
